@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Data & outputs
+data/
+outputs/
+
+# Models (if large)
+*.h5
+*.pt
+*.pth
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
